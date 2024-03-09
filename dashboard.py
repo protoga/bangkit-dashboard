@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt #mengimport library matplotlib.pyplot
 import seaborn as sns #mengimport library seaborn
 import streamlit as st #mengimport library streamlit
 from babel.numbers import format_currency #mengimport fungsi format_currency dari library babel.numbers
-from notebook import * #mengimport semua fungsi yang ada di file notebook.py
 sns.set(style='dark') #mengatur style seaborn
 
 """def create_sum_seller_city(df):
